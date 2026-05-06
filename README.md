@@ -41,7 +41,7 @@ This paper proposes an independently originated theoretical claim: **an AI Token
 ## How to Cite / 引用方式
 
 **English**
-> Kim, Gavin. (2026). *A Token Relay Station Is a Token Bank: A Theoretical Framework for AI Compute Financialization*. J&P (Thailand). v1.0. https://github.com/[your-account]/token-bank-thesis
+> Kim, Gavin. (2026). *A Token Relay Station Is a Token Bank: A Theoretical Framework for AI Compute Financialization*. J&P (Thailand). v1.0. https://github.com/Thaibuddy-ai /token-bank-thesis
 
 **中文**
 > Kim, Gavin. (2026). 《Token 中转站即 Token 银行：AI 算力金融化的理论框架》. J&P (Thailand). v1.0. https://github.com/[你的账号]/token-bank-thesis
